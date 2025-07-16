@@ -1,1 +1,1 @@
-![a5c-board](profile/a5c-board.png)
+![a5c-board](.github/profile/a5c-board.png)
