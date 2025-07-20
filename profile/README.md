@@ -1,2 +1,2 @@
-## Bring your repo to life - The git-native platform for AI-agent squads.
+## Bring your repo to life with git-native AI-agent squads.
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7effda13-b8ae-4369-a0fe-ce40fcf253c9" />
