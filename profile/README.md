@@ -1,2 +1,5 @@
-## Next-Generation Development Process Automation.
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7effda13-b8ae-4369-a0fe-ce40fcf253c9" />
+# Stop babysitting your agents. Start shipping.
+
+## Babysitter is NOW LIVE!
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ad800670-2b17-4794-a1f7-2adabb8c982d" />
